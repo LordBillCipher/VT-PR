@@ -1,17 +1,14 @@
 #!/usr/bin/env python
-
+from __future__ import print_function
 import io
 import logging
 import argparse
 
-from construct import setGlobalPrintPrivateEntries, setGlobalPrintFullStrings
-
-from .parser import Box
+from pymp4.parser import Box
+from construct import setglobalfullprinting
 
 log = logging.getLogger(__name__)
-
-setGlobalPrintPrivateEntries(True)
-setGlobalPrintFullStrings(False)
+setglobalfullprinting(True)
 
 
 def dump():

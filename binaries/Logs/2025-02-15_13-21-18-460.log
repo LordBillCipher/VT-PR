@@ -1,0 +1,1513 @@
+﻿LOG 2025/02/15
+Save Path: D:\PlayReady-Amazon-Tool-main\binaries\Logs
+Task Start: 2025/02/15 13:21:18
+Task CommandLine: D:\PlayReady-Amazon-Tool-main\binaries\N_m3u8DL-RE.EXE http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/manifest --save-dir D:\PlayReady-Amazon-Tool-main\Temp --save-name VideoTrack_45078812e8599c009786a4478006da5d_enc --write-meta-json False --log-level ERROR --thread-count 96 --download-retry-count 8 --ffmpeg-binary-path D:\PlayReady-Amazon-Tool-main\binaries\ffmpeg.EXE --binary-merge --decryption-engine SHAKA_PACKAGER --http-request-timeout 8 -sv res='2160*':codec='hev1':for=best -da all -ds all
+
+13:21:18.477 EXTRA: ffmpeg => D:\PlayReady-Amazon-Tool-main\binaries\ffmpeg.EXE
+13:21:18.958 EXTRA: DropAudioFilter => For: all
+13:21:18.958 EXTRA: DropSubtitleFilter => For: all
+13:21:18.958 EXTRA: VideoFilter => ResolutionReg: 2160* For: best
+13:21:27.009 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=0)
+13:21:43.310 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=1974889583)
+13:21:43.310 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=1402651250)
+13:21:43.310 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=259842917)
+13:21:43.311 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=1230395833)
+13:21:43.310 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=3355435417)
+13:21:43.310 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2431178750)
+13:21:43.310 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=1789287500)
+13:21:43.319 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=489655833)
+13:21:43.310 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=1695026667)
+13:21:43.310 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=3129376250)
+13:21:43.311 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=606856250)
+13:21:43.311 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=1614529583)
+13:21:43.311 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=846679167)
+13:21:43.321 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2846176667)
+13:21:43.311 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=928010417)
+13:21:43.321 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=1165330833)
+13:21:43.310 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=3387550833)
+13:21:43.318 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=1263762500)
+13:21:43.318 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2314395417)
+13:21:43.323 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=3250330417)
+13:21:43.318 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=3282028750)
+13:21:43.318 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2580077500)
+13:21:43.318 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2889553333)
+13:21:43.324 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2739403333)
+13:21:43.318 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=697780417)
+13:21:43.334 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=1197029167)
+13:21:43.335 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2115863750)
+13:21:43.318 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=34617917)
+13:21:43.335 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=1304636667)
+13:21:43.318 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=113029583)
+13:21:43.318 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=229812917)
+13:21:43.337 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=1436017917)
+13:21:43.319 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=1462294167)
+13:21:43.337 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2140888750)
+13:21:43.319 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=1739654583)
+13:21:43.320 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=1893141250)
+13:21:43.320 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2089170417)
+13:21:43.320 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2215546667)
+13:21:43.320 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2480811667)
+13:21:43.320 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2401148750)
+13:21:43.321 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2264762500)
+13:21:43.321 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2530444583)
+13:21:43.321 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2811558750)
+13:21:43.311 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=1337169167)
+13:21:43.321 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2958789167)
+13:21:43.321 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=3169833333)
+13:21:43.311 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=659825833)
+13:21:43.322 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=771604167)
+13:21:43.322 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=540122917)
+13:21:43.322 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=157240417)
+13:21:43.322 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=1093175417)
+13:21:43.322 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=1370118750)
+13:21:43.322 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=1937352083)
+13:21:43.322 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=3044291250)
+13:21:43.323 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2665579583)
+13:21:43.318 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=3481811667)
+13:21:43.323 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=3525605417)
+13:21:43.323 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=3204868333)
+13:21:43.323 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=3102265833)
+13:21:43.323 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=1650815833)
+13:21:43.323 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=3075572500)
+13:21:43.324 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2776940833)
+13:21:43.324 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2372787083)
+13:21:43.318 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=3313727083)
+13:21:43.334 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=514680833)
+13:21:43.334 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2048713333)
+13:21:43.334 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=872121250)
+13:21:43.334 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=393309583)
+13:21:43.318 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=3432178750)
+13:21:43.334 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=1549047500)
+13:21:43.334 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=69235833)
+13:21:43.334 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=1056055000)
+13:21:43.334 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2996743750)
+13:21:43.334 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=1848930417)
+13:21:43.335 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=318651667)
+13:21:43.335 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=191441250)
+13:21:43.335 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=633132500)
+13:21:43.318 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=440022917)
+13:21:43.335 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=900065833)
+13:21:43.318 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=821237083)
+13:21:43.335 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=1581580000)
+13:21:43.336 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=1018934583)
+13:21:43.336 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2017432083)
+13:21:43.336 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2343591250)
+13:21:43.336 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2701865833)
+13:21:43.336 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=346596250)
+13:21:43.310 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2165913750)
+13:21:43.337 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=735735000)
+13:21:43.337 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=1129044583)
+13:21:43.337 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=573489583)
+13:21:43.337 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=1818900417)
+13:21:43.319 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=1505670833)
+13:21:43.337 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2629710417)
+13:21:43.338 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2932930000)
+13:21:43.338 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=291124167)
+13:21:43.338 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=969301667)
+13:21:52.314 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2580077500)
+13:21:52.314 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=1695026667)
+13:21:52.314 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2889553333)
+13:21:52.329 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2215546667)
+13:21:52.329 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=3387550833)
+13:21:52.329 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2739403333)
+13:21:52.329 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2401148750)
+13:21:52.329 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=1739654583)
+13:21:52.329 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=697780417)
+13:21:52.329 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2431178750)
+13:21:52.330 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=3282028750)
+13:21:52.330 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2264762500)
+13:21:52.345 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=1505670833)
+13:21:52.345 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=3525605417)
+13:21:52.345 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2343591250)
+13:21:52.345 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=1129044583)
+13:21:52.345 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=3204868333)
+13:21:52.345 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=291124167)
+13:21:52.345 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=3169833333)
+13:21:52.345 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2165913750)
+13:21:52.360 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=440022917)
+13:21:52.360 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=393309583)
+13:21:52.360 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2776940833)
+13:21:52.360 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=3432178750)
+13:21:52.360 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=346596250)
+13:21:52.360 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=3313727083)
+13:21:52.361 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2530444583)
+13:21:52.360 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=540122917)
+13:21:52.361 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=69235833)
+13:21:52.361 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2958789167)
+13:21:52.361 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=2701865833)
+13:22:27.619 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=3653232917)
+13:23:00.046 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=3773352917)
+13:23:14.371 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=3827156667)
+13:23:18.863 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=3854684167)
+13:23:21.997 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=3883045833)
+13:23:25.026 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=3912658750)
+13:23:25.496 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=3955201250)
+13:23:25.589 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=3998160833)
+13:23:27.375 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=4024854167)
+13:23:30.228 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=4062808750)
+13:23:34.510 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=3955201250)
+13:23:35.832 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=4132878750)
+13:23:36.332 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=4182094583)
+13:23:36.863 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=4213792917)
+13:23:37.598 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=4244657083)
+13:23:40.132 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=4276772500)
+13:23:41.055 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=4308887917)
+13:23:42.268 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=4357686667)
+13:23:44.759 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=4406902500)
+13:23:48.767 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=4444022917)
+13:23:50.059 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=4308887917)
+13:23:50.262 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=4481560417)
+13:23:50.340 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=4509087917)
+13:23:50.903 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=4558720833)
+13:23:51.012 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=4608353750)
+13:23:53.951 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=4648393750)
+13:23:55.023 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=4688850833)
+13:24:02.149 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=4735564167)
+13:24:06.987 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=4810639167)
+13:24:07.082 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=4838583750)
+13:24:09.036 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=4881960417)
+13:24:09.235 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=4925337083)
+13:24:09.282 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=4962874583)
+13:24:09.565 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=5012507500)
+13:24:10.018 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=5062140417)
+13:24:10.819 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=5107185417)
+13:24:15.680 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=5152230417)
+13:24:18.576 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=5012507500)
+13:24:19.838 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=5107185417)
+13:24:20.152 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=5184762917)
+13:24:20.380 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=5217295417)
+13:24:20.970 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=5264842917)
+13:24:21.111 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=5314475833)
+13:24:21.392 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=5364108750)
+13:24:23.172 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=5413741667)
+13:24:24.300 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=5458369583)
+13:24:24.532 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=5502997500)
+13:24:27.766 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=5552630417)
+13:24:28.155 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=5596424167)
+13:24:29.416 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=5640217917)
+13:24:29.831 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=5689850833)
+13:24:31.274 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=5791202083)
+13:24:31.691 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=5823317500)
+13:24:31.894 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=5869196667)
+13:24:33.446 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=5902980417)
+13:24:34.228 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=5937181250)
+13:24:35.287 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=5971382083)
+13:24:36.557 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=6008085417)
+13:24:37.974 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=6035612917)
+13:24:39.169 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=6063140417)
+13:24:40.336 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=6109853750)
+13:24:42.191 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=6156567083)
+13:24:42.450 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=6186597083)
+13:24:42.623 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=6217044167)
+13:24:42.732 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=6254581667)
+13:24:49.083 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=6292119167)
+13:24:49.349 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=6109853750)
+13:24:54.058 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=6346757083)
+13:24:54.677 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=6381792083)
+13:24:55.897 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=6425168750)
+13:24:56.100 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=6462706250)
+13:25:01.182 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=6550710833)
+13:25:02.084 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=6578238333)
+13:25:06.939 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=6606600000)
+13:25:09.246 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=6652062083)
+13:25:10.196 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=6686680000)
+13:25:10.728 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=6721297917)
+13:25:12.995 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=6762172083)
+13:25:13.979 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=6803463333)
+13:25:14.484 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=6843086250)
+13:25:15.746 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=6882709167)
+13:25:16.131 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=6932342083)
+13:25:16.491 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=6966125833)
+13:25:16.531 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=7000326667)
+13:25:17.063 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=7038698333)
+13:25:18.621 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=7077487083)
+13:25:19.625 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=7126285833)
+13:25:20.464 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=7175501667)
+13:25:20.911 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=7204280417)
+13:25:22.417 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=7246405833)
+13:25:22.745 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=7288948333)
+13:25:24.160 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=7333576250)
+13:25:27.000 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=7374867500)
+13:25:27.635 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=7416158750)
+13:25:29.679 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=7451193750)
+13:25:29.727 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=7486228750)
+13:25:31.180 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=7515841667)
+13:25:34.097 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=7545454583)
+13:25:36.586 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=7578404167)
+13:25:37.289 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=7611353750)
+13:25:38.043 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=7649308333)
+13:25:39.398 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=7687262917)
+13:25:40.476 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=7720212500)
+13:25:45.690 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=7753579167)
+13:25:46.106 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=7803212083)
+13:25:46.340 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=7852845000)
+13:25:46.512 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=7895387500)
+13:25:46.981 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=7938347083)
+13:25:47.059 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=7649308333)
+13:25:49.622 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=7970045417)
+13:25:50.726 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=8005497500)
+13:25:56.116 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=8041783750)
+13:25:57.670 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=8081406667)
+13:25:57.779 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=8116024583)
+13:26:05.369 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=8151059583)
+13:26:06.176 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=8188597083)
+13:26:06.895 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=8229054167)
+13:26:07.326 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=8256581667)
+13:26:07.640 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=8299541250)
+13:26:10.027 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=8349174167)
+13:26:13.855 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=8380038333)
+13:26:14.084 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=8411319583)
+13:26:15.176 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=8443435000)
+13:26:16.865 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=8475550417)
+13:26:17.375 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=8525183333)
+13:26:19.262 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=8574816250)
+13:26:23.599 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=8626534583)
+13:26:24.758 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=8659067083)
+13:26:24.963 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=8685760417)
+13:26:25.885 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=8475550417)
+13:26:26.611 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=8712453750)
+13:26:26.823 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=8743317917)
+13:26:29.583 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=8774599167)
+13:26:32.758 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=8844252083)
+13:26:35.717 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=8893885000)
+13:26:37.883 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=8943517917)
+13:26:38.396 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=8993150833)
+13:26:39.397 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=9042783750)
+13:26:40.027 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=9142049583)
+13:26:40.027 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=9092416667)
+13:26:41.773 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=8844252083)
+13:26:44.797 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=9186260417)
+13:26:44.906 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=9230888333)
+13:26:45.807 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=9265506250)
+13:26:47.089 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=9297204583)
+13:26:47.399 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=8993150833)
+13:26:50.077 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=9346837500)
+13:26:51.702 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=9383123750)
+13:26:51.717 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=9419410000)
+13:26:51.921 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=9459450000)
+13:26:54.055 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=9499490000)
+13:26:55.834 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=9542866667)
+13:26:58.751 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=9575816250)
+13:27:00.740 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=9609600000)
+13:27:02.633 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=9636710417)
+13:27:02.712 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=9664237917)
+13:27:02.790 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=9713870833)
+13:27:03.025 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=9763503750)
+13:27:03.932 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=9792699583)
+13:27:05.128 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=9829402917)
+13:27:05.640 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=9879035833)
+13:27:06.916 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=9919492917)
+13:27:09.936 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=9959950000)
+13:27:10.468 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=9995819167)
+13:27:14.640 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=10032105417)
+13:27:18.368 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=10065889167)
+13:27:22.560 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=10151391250)
+13:27:22.984 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=10188094583)
+13:27:25.071 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=10223129583)
+13:27:25.502 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=10258164583)
+13:27:25.597 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=10297787500)
+13:27:25.862 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=10347420417)
+13:27:25.894 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=10375365000)
+13:27:27.720 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=10403726667)
+13:27:34.345 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=10444183750)
+13:27:35.652 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=10485057917)
+13:27:37.334 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=10526349167)
+13:27:37.662 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=10560132917)
+13:27:38.052 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=10591831250)
+13:27:38.553 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=10641464167)
+13:27:45.896 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=10690680000)
+13:27:47.061 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=10591831250)
+13:27:47.297 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=10740312917)
+13:27:47.563 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=10641464167)
+13:27:48.141 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=10787443333)
+13:27:48.625 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=10834990833)
+13:27:49.900 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=10868357500)
+13:27:50.682 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=10911734167)
+13:27:50.888 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=10957613333)
+13:27:50.997 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=11001407083)
+13:27:52.132 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=11031854167)
+13:27:52.737 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=11062301250)
+13:27:54.696 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=11092331250)
+13:27:55.703 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=11117356250)
+13:27:55.734 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=11145717917)
+13:27:55.843 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=11171160000)
+13:27:56.321 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=11219124583)
+13:27:58.919 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=10868357500)
+13:27:59.137 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=11268340417)
+13:27:59.599 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=11310465833)
+13:27:59.693 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=10911734167)
+13:28:03.203 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=11340912917)
+13:28:06.632 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=11378450417)
+13:28:06.726 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=11416405000)
+13:28:06.913 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=11459364583)
+13:28:10.676 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=11499821667)
+13:28:10.961 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=11540695833)
+13:28:16.595 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=11566972083)
+13:28:18.136 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=11625780833)
+13:28:18.808 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=11662067083)
+13:28:18.839 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=11689177500)
+13:28:20.350 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=11716705000)
+13:28:22.108 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=11757162083)
+13:28:22.695 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=11798036250)
+13:28:24.840 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=11831820000)
+13:28:29.985 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=11866020833)
+13:28:30.626 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=11904809583)
+13:28:31.198 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=11944015417)
+13:28:31.979 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=11993231250)
+13:28:32.444 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=12037025000)
+13:28:33.188 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=12066637917)
+13:28:35.035 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=12116270833)
+13:28:35.521 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=12159647500)
+13:28:38.468 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=12203441250)
+13:28:38.744 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=12239310417)
+13:28:39.714 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=12275179583)
+13:28:40.099 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=12308546250)
+13:28:42.206 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=12066637917)
+13:28:47.771 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=12363184167)
+13:28:48.812 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=12406560833)
+13:28:50.025 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=12443264167)
+13:28:54.331 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=12480384583)
+13:28:56.239 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=12520424583)
+13:28:58.123 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=12552957083)
+13:29:02.338 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=12585906667)
+13:29:05.124 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=12625529583)
+13:29:05.501 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=12682670000)
+13:29:05.891 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=12711031667)
+13:29:07.912 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=12738559167)
+13:29:08.115 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=12788192083)
+13:29:09.354 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=12837825000)
+13:29:09.590 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=12887457917)
+13:29:11.278 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=12937090833)
+13:29:12.412 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=12986723750)
+13:29:12.524 EXTRA: Ah oh!
+RetryCount => 8
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=13018422083)
+13:29:16.934 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=12738559167)
+13:29:17.130 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The request was canceled due to the configured HttpClient.Timeout of 8 seconds elapsing.
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=12788192083)
+13:30:17.741 EXTRA: Ah oh!
+RetryCount => 7
+Exception  => The response ended prematurely, with at least 6500936 additional bytes expected. (ResponseEnded)
+Url        => http://avodsls3ww-s.akamaihd.net/ondemand/iad_2/69db/8b27/9e48/4eba-aab4-85ae8367bbf2/b4dc414d-e9dc-4770-b418-fb3fde0cf4a9.ism/QualityLevels(20000000)/Fragments(video=771604167)

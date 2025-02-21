@@ -1,0 +1,30 @@
+US:
+  device_link: True
+  base_url: 'https://www.paramountplus.com'
+  at_token: 'ABC+2JjrOUYWbaaqKmzwPdppq0RDB2WdufcFmIsSnJDmDEQpVgyAjQpqpEDksKZNMKQ='
+  login: 'https://www.paramountplus.com/apps-api/v2.0/androidtv/auth/login.json'
+  status: 'https://www.paramountplus.com/apps-api/v2.0/androidphone/app/status.json'
+  movie: 'https://www.paramountplus.com/apps-api/v3.0/androidphone/movies/{title_id}.json'
+  shows: 'https://www.paramountplus.com/apps-api/v2.0/androidphone/shows/{title_id}/videos/config/SHOW_LANDING_EPISODES.json'
+  section: 'https://www.paramountplus.com/apps-api/v2.0/androidphone/videos/section/{}.json'
+  seasons: 'https://www.paramountplus.com/apps-api/v3.0/androidphone/shows/{}/video/season/availability.json'
+  show: 'https://www.paramountplus.com/apps-api/v3.0/androidphone/shows/{}.json'
+  video_items: 'https://www.paramountplus.com/apps-api/v2.0/{device}/video/cid/{content_id}.json'
+  cbs: https://www.paramountplus.com/apps-api/v2.0/androidphone/video/cid/{show_id}.json
+
+INTL:
+  device_link: False
+  base_url: 'https://www.intl.paramountplus.com'
+  at_token: 'ABAS/G30Pp6tJuNOlZ1OEE6Rf5goS0KjICkGkBVIapVuxemiiASyWVfW4v7SUeAkogc='
+  login: 'https://www.intl.paramountplus.com/apps-api/v2.0/androidtv/auth/login.json'
+  status: 'https://www.intl.paramountplus.com/apps-api/v2.0/androidphone/app/status.json'
+  movie: 'https://www.intl.paramountplus.com/apps-api/v3.0/androidphone/movies/{title_id}.json'
+  shows: 'https://www.intl.paramountplus.com/apps-api/v2.0/androidphone/shows/{title_id}/videos/config/INTL_SHOW_LANDING.json'
+  section: 'https://www.intl.paramountplus.com/apps-api/v2.0/androidphone/videos/section/{}.json'
+  seasons: 'https://www.intl.paramountplus.com/apps-api/v3.0/androidphone/shows/{}/video/season/availability.json'
+  show: 'https://www.intl.paramountplus.com/apps-api/v3.0/androidphone/shows/{}.json'
+  video_items: 'https://www.intl.paramountplus.com/apps-api/v2.0/{device}/video/cid/{content_id}.json'
+  cbs: https://www.intl.paramountplus.com/apps-api/v2.0/androidphone/video/cid/{show_id}.json
+
+LINK_PLATFORM_URL: 'http://link.theplatform.com/s/dJ5BDC/media/guid/2198311517/{video_id}'
+license: 'https://cbsi.live.ott.irdeto.com/widevine/getlicense'

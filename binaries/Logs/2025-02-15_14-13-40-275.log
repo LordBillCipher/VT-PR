@@ -1,0 +1,9 @@
+﻿LOG 2025/02/15
+Save Path: D:\PlayReady-Amazon-Tool-main\binaries\Logs
+Task Start: 2025/02/15 14:13:40
+Task CommandLine: D:\PlayReady-Amazon-Tool-main\binaries\N_m3u8DL-RE.EXE http://ABHL4WLAAAAAAAAMBM6ITLAQRCYN7.shard-2.s3-bom-ww.cf.smooth.row.aiv-cdn.net/c54e/1769/fcea/439f-a88f-622190943a65/df87912c-0b4f-4df5-a3e9-10456385129c.ism/manifest --save-dir D:\PlayReady-Amazon-Tool-main\Temp --save-name VideoTrack_72c5f49c5602995302ea983321e85312_enc --write-meta-json False --log-level ERROR --thread-count 96 --download-retry-count 8 --ffmpeg-binary-path D:\PlayReady-Amazon-Tool-main\binaries\ffmpeg.EXE --binary-merge --decryption-engine SHAKA_PACKAGER --http-request-timeout 8 -sv res='2160*':codec='hev1':for=best -da all -ds all
+
+14:13:40.292 EXTRA: ffmpeg => D:\PlayReady-Amazon-Tool-main\binaries\ffmpeg.EXE
+14:13:41.004 EXTRA: DropAudioFilter => For: all
+14:13:41.004 EXTRA: DropSubtitleFilter => For: all
+14:13:41.004 EXTRA: VideoFilter => ResolutionReg: 2160* For: best

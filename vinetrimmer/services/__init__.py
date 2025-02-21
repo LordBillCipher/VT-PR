@@ -6,24 +6,30 @@ from vinetrimmer.services.BaseService import BaseService
 
 SERVICE_MAP = {}
 
-for service in os.listdir(os.path.dirname(__file__)):
-    if service.startswith("_") or not service.endswith(".py"):
-        continue
+from vinetrimmer.services.amazon import Amazon
+from vinetrimmer.services.appletvplus import AppleTVPlus
+from vinetrimmer.services.max import Max
+from vinetrimmer.services.netflix import Netflix
 
-    service = os.path.splitext(service)[0]
+# Below dynamic imports fuck with compiling when using Nuitka - exec() call is the problem
+#for service in os.listdir(os.path.dirname(__file__)):
+#    if service.startswith("_") or not service.endswith(".py"):
+#        continue
 
-    if service in ("__init__", "BaseService"):
-        continue
+#    service = os.path.splitext(service)[0]
 
-    with open(os.path.join(os.path.dirname(__file__), f"{service}.py"), encoding="utf-8") as fd:
-        code = ""
-        for line in fd.readlines():
-            if re.match(r"\s*(?:import(?! click)|from)\s", line):
-                continue
-            code += line
-            if re.match(r"\s*super\(\)\.__init__\(", line):
-                break
-        exec(code)
+#    if service in ("__init__", "BaseService"):
+#        continue 
+
+#    with open(os.path.join(os.path.dirname(__file__), f"{service}.py"), encoding="utf-8") as fd:
+#        code = ""
+#        for line in fd.readlines():
+#            if re.match(r"\s*(?:import(?! click)|from)\s", line):
+#                continue
+#            code += line
+#            if re.match(r"\s*super\(\)\.__init__\(", line):
+#                break
+#        exec(code)
 
 for x in copy(globals()).values():
     if isinstance(x, type) and issubclass(x, BaseService) and x != BaseService:

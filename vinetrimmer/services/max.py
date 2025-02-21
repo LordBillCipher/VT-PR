@@ -53,7 +53,6 @@ class Max(BaseService):
 
     def __init__(self, ctx, title):
         super().__init__(ctx)
-        self.quality = ctx.parent.params["quality"]
         self.title = self.parse_title(ctx, title)
         # self.movie = movie
 
@@ -71,9 +70,9 @@ class Max(BaseService):
         # self.profile_id = None
         # self.entitlements = None
         
-        if ("HDR" in self.range) or (self.range == "DV") or ((self.quality << 1080) if self.quality else False):
-            self.log.info(" - Setting Video codec to H265 to get UHD")
+        if self.range == 'HDR10':
             self.vcodec = "H265"
+        
         self.configure()
 
     def get_titles(self):

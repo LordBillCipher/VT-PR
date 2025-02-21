@@ -7,22 +7,20 @@ aria2c:
   
 
 cdm:
-  default: 'samsung_electronics_co_ltd_sm-t710_eur_open_sm-t710_sl2000'
-  Amazon: 'samsung_electronics_co_ltd_sm-t710_eur_open_sm-t710_sl2000'
-  AppleTVPlus: 'hisense_smarttv_hu50a6100uw_sl3000'
+  default: 'hisense_smarttv_he55a7000euwts_sl3000'
+  Amazon: 'hisense_smarttv_he55a7000euwts_sl3000'
 
 cdm_api:
-  - name: 'amazon'
-    host: 'http://31.207.45.191:62318'
-    username: '4ppl'
-    key: '1256521d4f83411192b923b9f71dd26'
-    device: 'j4'
+  - name: 'playready'
+    host: 'http://api.drmlab.io/prvinetrimmer'
+    key: 'MKBsQ04VbRkq0sMzPKoT5hnOazeH7rOA'
+    device: 'pr3k'
     type: 'PLAYREADY'
-    system_id: 12345
+    system_id: 3000
     security_level: 1
 
 credentials:
-  iTunes: ''
+  iTunes: 'Playreadydrm@proton.me'
 
 directories:
   temp: ''

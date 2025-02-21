@@ -1,6 +1,8 @@
 import asyncio
 import contextlib
+import logging
 import os
+from pathlib import Path
 import re
 import shutil
 import subprocess
@@ -30,6 +32,7 @@ def get_ip_info(session=None, fresh=False):
 
     if fresh or not _ip_info:
         # alternatives: http://www.geoplugin.net/json.gp, http://ip-api.com/json/, https://extreme-ip-lookup.com/json
+        # _ip_info = (session or httpx).get("https://ip-api.com/json/").json()
         _ip_info = (session or httpx).get("http://ip-api.com/json/").json()
 
     return _ip_info
@@ -232,4 +235,50 @@ async def saldl(uri, out, headers=None, proxy=None):
     except subprocess.CalledProcessError:
         raise ValueError("Saldl failed too many times, aborting")
 
+    print()
+
+
+async def m3u8dl(uri: str, out: str, track):
+    executable = shutil.which("N_m3u8DL-RE") or shutil.which("m3u8DL")
+    if not executable:
+        raise EnvironmentError("N_m3u8DL-RE executable not found...")
+    
+    ffmpeg_binary = shutil.which("ffmpeg")
+
+    arguments = [
+        executable,
+        uri,
+        "--save-dir", os.path.dirname(out),
+        "--save-name", os.path.basename(out).replace(".mp4", ""),
+        "--write-meta-json", "False",
+        "--log-level", "ERROR",
+        "--thread-count", "96",
+        "--download-retry-count", "8",
+        "--ffmpeg-binary-path", ffmpeg_binary,
+        "--binary-merge",
+        "--decryption-engine", "SHAKA_PACKAGER",
+        "--http-request-timeout", "8"
+    ]
+
+    if track.__class__.__name__ == "VideoTrack":
+        if track.height:
+            arguments.extend([
+                "-sv", f"res='{track.height}*':codec='{track.codec}':for=best"
+            ])
+        else:
+            arguments.extend([
+                "-sv", "best"
+            ])
+
+        arguments.extend([
+            "-da", "all",
+            "-ds", "all", 
+        ])
+    else:
+        raise ValueError(f"{track.__class__.__name__} not supported yet!")
+
+    try:
+        p = subprocess.run(arguments, check=True)
+    except subprocess.CalledProcessError:
+        raise ValueError("N_m3u8DL-RE failed too many times, aborting")
     print()

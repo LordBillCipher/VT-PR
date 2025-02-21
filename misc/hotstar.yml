@@ -1,0 +1,18 @@
+needs_auth: false
+
+endpoints:
+  login: 'https://api.hotstar.com/in/aadhar/v2/web/in/user/login'
+  refresh: 'https://www.hotstar.com/api/internal/bff/v2/start'
+  tv_title: 'https://api.hotstar.com/o/v1/show/detail'
+  tv_episodes: 'https://api.hotstar.com/o/v1/tray/g/1/detail'
+  movie_title: 'https://api.hotstar.com/o/v1/movie/detail'
+  manifest: 'https://apix.hotstar.com/v2/pages/watch'
+
+device:
+  os:
+    name: 'Windows'
+    version: 10
+
+  platform:
+    name: 'web'
+    version: '7.35.0'
