@@ -20,7 +20,7 @@ cdm_api:
     security_level: 1
 
 credentials:
-  iTunes: 'Playreadydrm@proton.me'
+  iTunes: ''
 
 directories:
   temp: ''
