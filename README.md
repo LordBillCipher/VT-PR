@@ -3,7 +3,7 @@ A tool to download and remove DRM from streaming services. A version of an old f
 Modified to remove Playready DRM instead of Widevine.
 
 ## Features
- - Progress Bars for decryption ([mp4decrypt](https://github.com/chu23465/bentoOldFork)) (Shaka)
+ - Progress Bars for decryption ([mp4decrypt](https://github.com/chu23465/bentoOldFork), Shaka)
  - Refresh Token fixed for Amazon service
  - Reprovision .prd after a week
  - ISM manifest support (Microsoft Smooth Streaming) (Few features to be added)
@@ -34,14 +34,6 @@ All other option can be left to defaults, unless you know what you are doing.
 ### General Options
 
 Usage: vt.cmd [OPTIONS] COMMAND [ARGS]...
-
-Example : 
-```bash
-poetry run vt dl -al en -sl en --selected -q 2160 -r HDR -w S01E18-S01E25 AMZN -b CBR --ism 0IQZZIJ6W6TT2CXPT6ZOZYX396
-```
-
-Above command gets english subtitles + audio, selects the HDR + 4K track, gets episodes from S01E18 to S01E25 from Amazon with CBR bitrate, tries to force ISM and the title-ID is 0IQZZIJ6W6TT2CXPT6ZOZYX396
-
 
 Options:
 | Command line argument      | Description                                                                                   | Default Value                     |
@@ -131,6 +123,37 @@ https://www.primevideo.com/region/eu/ontv/code?ref_=atv_auth_red_aft
 Login and get to the code pair page. Extract cookies from that page using [Open Cookies.txt](https://chromewebstore.google.com/detail/open-cookiestxt/gdocmgbfkjnnpapoeobnolbbkoibbcif).
 
 Save it to the path `vinetrimmer/Cookies/Amazon/default.txt`.
+
+
+### Example Command
+
+Amazon Example:
+
+```bash
+poetry run vt dl -al en -sl en --selected -q 2160 -r HDR -w S01E18-S01E25 AMZN -b CBR --ism 0IQZZIJ6W6TT2CXPT6ZOZYX396
+```
+
+Above command:
+ - gets english subtitles + audio,
+ - selects the HDR + 4K track,
+ - gets episodes from S01E18 to S01E25 from Amazon
+ - with CBR bitrate,
+ - tries to force ISM
+ - and the title-ID is 0IQZZIJ6W6TT2CXPT6ZOZYX396
+
+AppleTV Example:
+
+```bash
+poetry run vt dl -al en -sl en --list -q 720 --proxy http://192.168.0.99:9766 -w S01E01 ATVP umc.cmc.1nfdfd5zlk05fo1bwwetzldy3
+```
+
+Above command:
+ - gets english subtitles + audio,
+ - lists all possible qualities,
+ - selects 720p video track,
+ - uses the proxy for licensing,
+ - gets the first episode of first season (i.e S01E01)
+ - of the title umc.cmc.1nfdfd5zlk05fo1bwwetzldy3
 
 
 ## Proxy
