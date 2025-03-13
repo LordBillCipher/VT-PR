@@ -46,18 +46,18 @@ Above command gets english subtitles + audio, selects the HDR + 4K track, gets e
 Options:
 | Command line argument      | Description                                                                                   | Default Value                     |
 |----------------------------|-----------------------------------------------------------------------------------------------|-----------------------------------|
-|  -p, --profile TEXT        | Profile to use when multiple profiles are defined for a service.                              |  "default"                        |
-|  -q, --quality TEXT        | Download Resolution                                                                           |  1080                             |
-|  -v, --vcodec TEXT         | Video Codec                                                                                   |  H264                             |
-|  -a, --acodec TEXT         | Audio Codec                                                                                   |  None                             |
-|  -vb, --vbitrate INTEGER   | Video Bitrate                                                                                 |  Max                              |
-|  -ab, --abitrate INTEGER   | Audio Bitrate                                                                                 |  Max                              |
+|  -p, --profile             | Profile to use when multiple profiles are defined for a service.                              |  "default"                        |
+|  -q, --quality             | Download Resolution                                                                           |  1080                             |
+|  -v, --vcodec              | Video Codec                                                                                   |  H264                             |
+|  -a, --acodec              | Audio Codec                                                                                   |  None                             |
+|  -vb, --vbitrate           | Video Bitrate                                                                                 |  Max                              |
+|  -ab, --abitrate           | Audio Bitrate                                                                                 |  Max                              |
 |  -aa, --atmos              | Prefer Atmos Audio                                                                            |  False                            |
-|  -r, --range TEXT          | Video Color Range `HDR`, `HDR10`, `DV`, `SDR`                                                 |  SDR                              |
-|  -w, --wanted TEXT         | Wanted episodes, e.g. `S01-S05,S07`, `S01E01-S02E03`, `S02-S02E03`                            |  Default to all                   |
-|  -al, --alang TEXT         | Language wanted for audio.                                                                    |  Defaults to original language    |
-|  -sl, --slang TEXT         | Language wanted for subtitles.                                                                |  Defaults to original language    |
-|  --proxy TEXT              | Proxy URI to use. If a 2-letter country is provided, it will try get a proxy from the config. |  None                             |
+|  -r, --range               | Video Color Range `HDR`, `HDR10`, `DV`, `SDR`                                                 |  SDR                              |
+|  -w, --wanted              | Wanted episodes, e.g. `S01-S05,S07`, `S01E01-S02E03`, `S02-S02E03`                            |  Default to all                   |
+|  -al, --alang              | Language wanted for audio.                                                                    |  Defaults to original language    |
+|  -sl, --slang              | Language wanted for subtitles.                                                                |  Defaults to original language    |
+|  --proxy                   | Proxy URI to use. If a 2-letter country is provided, it will try get a proxy from the config. |  None                             |
 |  -A, --audio-only          | Only download audio tracks.                                                                   |  False                            |
 |  -S, --subs-only           | Only download subtitle tracks.                                                                |  False                            |
 |  -C, --chapters-only       | Only download chapters.                                                                       |  False                            |
@@ -111,17 +111,28 @@ Usage: vt.cmd AMZN [OPTIONS] [TITLE]
   vt dl --list -z uk -q 1080 Amazon B09SLGYLK8
 
 
-|  Command Line Switch                | Description                                                                                 |
-|-------------------------------------|---------------------------------------------------------------------------------------------|
-|  -b, --bitrate [CVBR|CBR|CVBR+CBR]  | Video Bitrate Mode to download in. CVBR=Constrained Variable Bitrate, CBR=Constant Bitrate. |
-|  -c, --cdn TEXT                     | CDN to download from, defaults to the CDN with the highest weight set by Amazon.            |
-|  -vq, --vquality [SD|HD|UHD]        | Manifest quality to request.                                                                |
-|  -s, --single                       | Force single episode/season instead of getting series ASIN.                                 |
-|  -am, --amanifest [CVBR|CBR|H265]   | Manifest to use for audio. Defaults to H265 if the video manifest is missing 640k audio.    |
-|  -aq, --aquality [SD|HD|UHD]        | Manifest quality to request for audio. Defaults to the same as --quality.                   |
-|  -ism, --ism                        | Set manifest override to SmoothStreaming. Defaults to DASH w/o this flag.                   |
-|  -?, -h, --help                     | Show this message and exit.                                                                 |
-  
+|  Command Line Switch                | Description                                                                                         |
+|-------------------------------------|-----------------------------------------------------------------------------------------------------|
+|  -b, --bitrate    | Video Bitrate Mode to download in. CVBR=Constrained Variable Bitrate, CBR=Constant Bitrate. (CVBR or CBR or CVBR+CBR) |
+|  -c, --cdn        | CDN to download from, defaults to the CDN with the highest weight set by Amazon.                                      |
+|  -vq, --vquality  | Manifest quality to request. (SD or HD or UHD)                                                                        |
+|  -s, --single     | Force single episode/season instead of getting series ASIN.                                                           |
+|  -am, --amanifest | Manifest to use for audio. Defaults to H265 if the video manifest is missing 640k audio. (CVBR or CBR or H265)        |
+|  -aq, --aquality  | Manifest quality to request for audio. Defaults to the same as --quality. (SD or HD or UHD)                           |
+|  -ism, --ism      | Set manifest override to SmoothStreaming. Defaults to DASH w/o this flag.                                             |
+|  -?, -h, --help   | Show this message and exit.                                                                                           |
+
+To get UHD/4k with Amazon, navigate to -
+
+```
+https://www.primevideo.com/region/eu/ontv/code?ref_=atv_auth_red_aft
+```
+
+Login and get to the code pair page. Extract cookies from that page using [Open Cookies.txt](https://chromewebstore.google.com/detail/open-cookiestxt/gdocmgbfkjnnpapoeobnolbbkoibbcif).
+
+Save it to the path `vinetrimmer/Cookies/Amazon/default.txt`.
+
+
 ## Proxy
 I recommend [Windscribe](https://windscribe.com/). You can sign up, getting 10 GB of traffic credit every month for free. We use the VPN for everything except downloading video/audio. 
 Tested so far on Amazon, AppleTVPlus, Max.
